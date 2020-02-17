@@ -5,7 +5,7 @@ program=$(basename $0)
 
 echo "Running $program at $(date)"
 
-sleep 10
+sleep 70
 
 rc=0
 
