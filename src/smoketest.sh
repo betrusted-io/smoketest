@@ -9,6 +9,6 @@ sleep 2
 
 rc=0
 
-echo "Competed at $(date) with exit code: $rc"
+echo "Completed at $(date) with exit code: $rc"
 
 exit $rc
